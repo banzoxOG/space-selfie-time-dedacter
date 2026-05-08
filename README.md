@@ -16,7 +16,7 @@ A real-time satellite pass predictor. Enter any NORAD ID, click the map to set y
 1. Fork or clone this repo
 2. Go to **Settings → Pages**
 3. Set source to `main` branch, `/ (root)` folder
-4. Your tracker is live at `https://<your-username>.github.io/<repo-name>/`
+4. Your tracker is live at `https://banzoxog.github.io/space-selfie-time-dedacter/`
 
 ## How it works
 
